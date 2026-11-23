@@ -9,7 +9,7 @@
 
 ### Requisitos Mínimos
 * **CPU:** Procesador de 64 bits (`x86_64`) a 1 GHz
-* **RAM:** 256 MB
+* **RAM:** 512 MB
 * **Almacenamiento:** 512 MB (o ejecución directa en RAM desde la ISO Live)
 * **GPU:** Gráficos básicos compatibles con VGA o VESA
 * **Nota sobre la interfaz gráfica:** Incluye entorno gráfico ligero (`JWM` + `Xorg VESA`) con barra de tareas y fondo de pantalla personalizado (funcionalidad gráfica experimental; en clientes VNC/KeX se recomienda usar el modo *Single-handed* para el puntero).
